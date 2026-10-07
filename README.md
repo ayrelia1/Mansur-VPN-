@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mansurchik.ru/">
-    <img src="https://i.ibb.co/GvC3sdJD/photo-2026-04-10-16-22-13.jpg" width="240" alt="Логотип Mansur VPN" />
+    <img src="https://i.ibb.co/GvKZ5hgg/mansur-logo.png" width="240" alt="Логотип Mansur VPN" />
   </a>
 </p>
 
